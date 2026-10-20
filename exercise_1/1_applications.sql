@@ -1,0 +1,10 @@
+DESC system.majors;
+
+SELECT
+	YRKESHÖGSKOLAN,
+	COUNT(*)
+FROM system.majors
+GROUP BY YRKESHÖGSKOLAN;
+
+
+EXIT
