@@ -1,10 +1,13 @@
+SET PAGESIZE 100
 DESC system.majors;
 
+
+-- Number of applications per category
 SELECT
-	YRKESHÖGSKOLAN,
+	utbildningsområde,
 	COUNT(*)
-FROM system.majors
-GROUP BY YRKESHÖGSKOLAN;
+FROM majors
+GROUP BY utbildningsområde;
 
 
 EXIT
