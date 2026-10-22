@@ -3,13 +3,14 @@ DESC system.majors;
 
 
 
--- Lists all categories of majors and sorts them by successrate of their applications
+-- Lists all categories of majors and sorts them by successrate of their applications as %
+-- Repeating the expression in the GROUP BY due to changing result to a string
 SELECT
 	utbildningsområde,
-	ROUND(COUNT(CASE WHEN beslut = 'Beviljad' THEN 1 END) / COUNT(*), 2) AS Successrate,
+	CONCAT(ROUND(COUNT(CASE WHEN beslut = 'Beviljad' THEN 1 END) * 100 / COUNT(*)), '%') AS Successrate,
 	COUNT(*) AS Total_courses
 FROM majors
 GROUP BY utbildningsområde
-ORDER BY Successrate DESC;
+ORDER BY ROUND(COUNT(CASE WHEN beslut = 'Beviljad' THEN 1 END) * 100 / COUNT(*), 2) DESC;
 
 EXIT
