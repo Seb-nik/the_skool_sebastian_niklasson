@@ -6,7 +6,7 @@ Stakeholder's notes
 
 3. Private and non-private are on the table, but they would need some data to support either choice
 
-4. Brick and mortar would be particurlarly interesting if there is a location that is in need for that sort of thing
+4. If there are particular subcategories of majors that has a higher successrate could be interesting
 
 5. Seeing as this school is in the early stages it would be good to secure more start periods so to secure a return on investment
 
@@ -14,12 +14,21 @@ Stakeholder's notes
 
 Can be interpreted into these questions
 
-1. What category of majors have the highest acceptence rate
+1. What category of majors have the highest acceptence rate.
 
-2. Is there a big difference between remote and physical (counting the categories that could go remote)
+Checking the % of accepted application for every main category to see if there is a trend.
 
-3. Private vs non-private successrate based on location
 
-4. Any locations with a particurlarly high sucessrate for brick and mortar
 
-5. Applied for periods vs accepted ones
+2. Is there a big difference between remote and physical (counting the categories that could go remote).
+
+Checking by location here makes sense seeing as they are considering 2-3 applications, but wont setup shop in more than one place to start. 
+
+
+3. Private vs non-private successrate based on location. Both are these are options, so it is good to know what is more successful wherever they setup shop.
+
+
+4. Checking all the subcategories to see if any of them stand out. Seeing as some majors could be changed into fitting another category if they are already adjecent.
+
+
+5. Applied for periods vs accepted ones. The more periods a major is accepted for, the less time and effort has to be put towards applying again. It will also be easier to predict revenue for the coming few years.
