@@ -8,7 +8,7 @@ SELECT
 	COUNT(*)
 FROM majors
 WHERE beslut = 'Avslag' AND utbildningsområde = 'Data/IT'
-GROUP BY LOWER(utbildningsnamn);
+GROUP BY Major;
 
 
 EXIT

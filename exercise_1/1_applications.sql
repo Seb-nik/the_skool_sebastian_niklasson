@@ -5,9 +5,10 @@ DESC system.majors;
 -- Number of applications per category
 SELECT
 	utbildningsområde,
-	COUNT(*)
+	COUNT(*) AS amount
 FROM majors
-GROUP BY utbildningsområde;
+GROUP BY utbildningsområde
+ORDER BY amount DESC;
 
 
 EXIT

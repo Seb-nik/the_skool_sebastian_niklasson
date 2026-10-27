@@ -1,18 +1,52 @@
 Stakeholder's notes
 
-1. They want to apply for categories of majors witch a high acceptence rate.
+1. 
 
-2. They are open to do majors remotely but also brick and mortar setting
+Q.
+Any thought of what majors you are currently interested in pursuing?
 
-3. Private and non-private are on the table, but they would need some data to support either choice
-
-4. If there are particular subcategories of majors that has a higher successrate could be interesting
-
-5. Seeing as this school is in the early stages it would be good to secure more start periods so to secure a return on investment
+A.
+They want to apply for categories of majors witch a high acceptence rate.
 
 
+2.
 
-Can be interpreted into these questions
+Q.
+How about remote vs brick and mortar setup? Is there any preference for either one of these?
+
+A.
+They are open to do majors remotely but also brick and mortar setting depending on what will improve acceptance rate.
+
+
+3.
+
+Q.
+Are you planning to be private or non-private?
+
+A.
+Private and non-private are both on the table, but they would need some data to support either choice
+
+
+4.
+
+Q.
+What about subcategories? Are there any of those you have are considering more than others?
+
+A.
+If there are particular subcategories of majors that has a higher successrate could be interesting.
+
+
+5. 
+
+Q. 
+Are you looking to apply for more periods at a time?
+
+A.
+Seeing as this school is in the early stages it would be good to secure more start periods so to secure a return on investment
+
+
+
+Can be interpreted into these queries
 
 1. What category of majors have the highest acceptence rate.
 
@@ -31,4 +65,5 @@ Checking by location here makes sense seeing as they are considering 2-3 applica
 4. Checking all the subcategories to see if any of them stand out. Seeing as some majors could be changed into fitting another category if they are already adjecent.
 
 
-5. Applied for periods vs accepted ones. The more periods a major is accepted for, the less time and effort has to be put towards applying again. It will also be easier to predict revenue for the coming few years.
+5. Applied for periods vs accepted ones. The more periods a major is accepted for, the less time and effort has to be put towards applying again.
+It will also be easier to predict revenue for the coming few years.

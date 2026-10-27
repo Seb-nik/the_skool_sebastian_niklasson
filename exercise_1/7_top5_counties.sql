@@ -9,7 +9,7 @@ SELECT
 	COUNT(*) AS Accepted
 FROM majors
 WHERE beslut = 'Beviljad' AND län != 'Flera kommuner'
-GROUP BY LOWER(län)
+GROUP BY County
 ORDER BY Accepted DESC
 FETCH FIRST 5 ROWS ONLY;
 

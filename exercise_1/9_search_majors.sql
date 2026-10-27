@@ -2,11 +2,11 @@ SET PAGESIZE 100
 DESC system.majors;
 
 
--- Counts every row where a major contrains ai
+-- Counts every row where a major contains AI
 SELECT
-	COUNT(*) AS Majors_that_contains_ai
+	COUNT(*)AS Majors_that_contains_ai
 FROM majors
-WHERE INSTR(LOWER(utbildningsnamn), 'ai') > 0;
+WHERE INSTR(utbildningsnamn, 'AI') > 0;
 
 
 EXIT

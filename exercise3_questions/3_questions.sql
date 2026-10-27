@@ -8,7 +8,7 @@ SELECT
 	CONCAT(ROUND(COUNT(CASE WHEN beslut = 'Beviljad' AND huvudmannatyp = 'Kommun' THEN 1 END) * 100 / COUNT(*)), '%') AS Non_private
 FROM majors
 GROUP BY Location
-ORDER BY Location DESC;
+ORDER BY COUNT(CASE WHEN beslut = 'Beviljad' AND huvudmannatyp = 'Privat' THEN 1 END) * 100 / COUNT(*) DESC
 
 
 EXIT
